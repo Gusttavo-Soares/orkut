@@ -1,0 +1,51 @@
+main{
+    padding-left: 1rem;
+}
+main > section h2{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 100;
+    padding: 1.5rem;
+}
+.linhas fieldset{
+    border-style: none;
+}
+.borda {
+    border: 2px solid white;
+    padding: 0 1rem 1rem  1rem;
+}
+.tam{
+    height: 2.5rem;
+}
+
+.gap{
+    margin-right: .5rem;
+}
+#esquerda{
+    margin-top: .7rem;
+    margin-left:1.6rem;
+    margin-bottom: .7rem;
+}
+main > section > form > fieldset >  a{
+   margin-left: 3rem;
+   text-decoration: none;
+   color: #6a3bb6;
+}
+button{
+    margin: 1rem 0 2rem 3rem;
+}
+main > section a{
+    margin-left: 1.5rem;
+}
+#center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1.7rem;
+    align-items: center;
+    padding: 2rem;
+    gap: .5rem;
+}
+#center a{
+    font-weight: 700;
+}

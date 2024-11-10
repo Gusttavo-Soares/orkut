@@ -11,7 +11,7 @@ main > section h2{
     border-style: none;
 }
 .borda {
-    border: 2px solid white;
+    border: .4rem solid white;
     padding: 0 1rem 1rem  1rem;
 }
 .tam{
